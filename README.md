@@ -1,2 +1,2 @@
 # neovim
-Neovim setup
+Neovim setup using primeagen tutorial
